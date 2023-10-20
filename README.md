@@ -1,4 +1,6 @@
 # Predicting Customer Churn: Building an Interactive Web App with Gradio
+![Uploading image.png…]()
+
 This project utilizes Gradio to create an interactive web-based interface for predicting customer churn using a pre-trained machine learning model.
 
 ## Summary
